@@ -1,98 +1,116 @@
-# Hi, I'm Saurabh Kumar Sharma 👋
+<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Saurabh Kumar Sharma</span></h1>
 
-Full‑stack JavaScript developer crafting clean, accessible, and performant web experiences. I love turning ideas into reliable products and continuously improving code quality and developer experience.
-
-- 🔭 Currently: polishing my portfolio and refining app UX
-- 🌱 Learning: advanced Node.js patterns, testing, and CI
-- 🤝 Open to: collaborating on impactful web projects
-
-
-## 🔗 Quick Links
-
-- Profile: [`@saurabh-sharma-dev`](https://github.com/saurabh-sharma-dev)
-- Portfolio: [`portfolio-app-orih.vercel.app`](https://portfolio-app-orih.vercel.app/)
-- LinkedIn: [`saurabh-kumar-sharma`](https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/)
-
-
-### 📫 Contact
-
-- Email: [`saurabhsharma84050@gmail.com`](mailto:saurabhsharma84050@gmail.com)
-
-
-## 🧰 Toolbox
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)&nbsp;
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
-
-
-## 💡 Highlights
-
-- Build responsive, accessible UIs with a focus on performance
-- Comfortable across frontend and backend JavaScript stacks
-- Write readable, maintainable code with thoughtful abstractions
-- Break problems into clear, testable units and automate routine checks
-
-
-## 🚀 Featured Projects
-
-- **Portfolio-app**
-  - A responsive personal portfolio with project highlights and contact.
-  - Repo: [`Portfolio-app`](https://github.com/saurabh-sharma-dev/Portfolio-app)
-
-- **Food-Delivery-App**
-  - Frontend prototype for food ordering (browse, cart, checkout).
-  - Repo: [`Food-Delivery-App`](https://github.com/saurabh-sharma-dev/Food-Delivery-App)
-
-> Explore more on my profile: [`@saurabh-sharma-dev`](https://github.com/saurabh-sharma-dev)
-
-
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saurabh-sharma-dev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saurabh-sharma-dev&theme=transparent&hide_border=true" height="160" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-sharma-dev&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabh-sharma-dev&theme=onestar&no-bg=true&no-frame=true&column=6" alt="GitHub trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-sharma-dev&theme=github-compact&hide_border=true" alt="Contribution graph" />
-</div>
-
-
-## 🛠️ How I Work
-
-- Prioritize accessibility, performance, and clarity
-- Keep functions small and focused, prefer composition over complexity
-- Use meaningful naming, strong typing where helpful, and linting/tests for confidence
-
-
-## 🤝 Let’s Connect
-
-- Open an issue on this repo or any project to start a chat
-- Share feedback or ideas—always happy to iterate and improve
-- LinkedIn: [`saurabh-kumar-sharma`](https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/)
-- Email: [`saurabhsharma84050@gmail.com`](mailto:saurabhsharma84050@gmail.com)
-
+<p align="center">
+  <b>Full-Stack JavaScript Developer</b> 🚀 <br/>
+  Crafting clean, accessible & performant web experiences. <br/>
+  Turning ideas into reliable products with a focus on quality & user experience.
+</p>
 
 ---
 
-This is my profile repository (`saurabh-sharma-dev/saurabh-sharma-dev`) that powers the README on my GitHub profile.
+### 🔭 Currently
+Polishing my <a href="https://portfolio-app-orih.vercel.app/" target="_blank">Portfolio</a> and refining app UX.
 
-Sources referenced: [`https://github.com/saurabh-sharma-dev`](https://github.com/saurabh-sharma-dev)
-*** End Patch``` ***!
+### 🌱 Learning
+Advanced Node.js patterns, testing, and CI/CD best practices.
+
+### 🤝 Open To
+Collaborating on impactful full-stack web projects and startups.
+
+---
+
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://github.com/saurabh-sharma-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://portfolio-app-orih.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00b894?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:saurabhsharma84050@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,github,jest,vscode&perline=6" />
+</p>
+
+---
+
+## 💡 What I Do
+
+✅ Build responsive, accessible UIs with modern JS frameworks  
+✅ Design and develop RESTful APIs & full-stack apps  
+✅ Write clean, maintainable, and well-tested code  
+✅ Continuously improve code quality and developer experience  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧭 [Portfolio-App](https://github.com/saurabh-sharma-dev/Portfolio-app)
+A responsive personal portfolio showcasing projects and achievements.  
+🔹 Built with React, Tailwind, and smooth scroll animations.
+
+### 🍔 [Food-Delivery-App](https://github.com/saurabh-sharma-dev/Food-Delivery-App)
+Frontend prototype for food ordering — browse, cart, checkout.  
+🔹 Focused on clean UX & reusable React components.
+
+> 🌟 Explore more projects at [@saurabh-sharma-dev](https://github.com/saurabh-sharma-dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saurabh-sharma-dev&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="160" alt="GitHub stats" />  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saurabh-sharma-dev&theme=react&hide_border=true" height="160" alt="GitHub streak" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-sharma-dev&layout=compact&theme=react&hide_border=true" height="160" alt="Top languages" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabh-sharma-dev&theme=onedark&no-bg=true&no-frame=true&column=6" alt="GitHub trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-sharma-dev&theme=github-dark&hide_border=true&area=true" alt="Contribution graph" />
+</div>
+
+---
+
+## 🛠️ Development Philosophy
+
+🧩 Keep code modular, readable, and testable  
+⚙️ Prefer composition over complexity  
+🌍 Focus on accessibility & performance  
+🧠 Never stop learning, experimenting, and improving  
+
+---
+
+## 🤝 Let’s Connect
+
+💬 Open an issue on any repo to start a conversation  
+📩 Reach me at **[saurabhsharma84050@gmail.com](mailto:saurabhsharma84050@gmail.com)**  
+💼 Connect on [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/)
+
+---
+
+<p align="center">
+  <i>✨ “Code with purpose, build with passion.” ✨</i>
+</p>
+
+---
+
+> 💻 This is my GitHub profile repository — <a href="https://github.com/saurabh-sharma-dev">saurabh-sharma-dev/saurabh-sharma-dev</a>  
+> Check out my live portfolio → [portfolio-app-orih.vercel.app](https://portfolio-app-orih.vercel.app/)
