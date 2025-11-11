@@ -10,8 +10,13 @@ Full‑stack JavaScript developer crafting clean, accessible, and performant web
 ## 🔗 Quick Links
 
 - Profile: [`@saurabh-sharma-dev`](https://github.com/saurabh-sharma-dev)
-- Portfolio (add link when live)
-- LinkedIn (add link)
+- Portfolio: [`portfolio-app-orih.vercel.app`](https://portfolio-app-orih.vercel.app/)
+- LinkedIn: [`saurabh-kumar-sharma`](https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/)
+
+
+### 📫 Contact
+
+- Email: [`saurabhsharma84050@gmail.com`](mailto:saurabhsharma84050@gmail.com)
 
 
 ## 🧰 Toolbox
@@ -81,7 +86,8 @@ Full‑stack JavaScript developer crafting clean, accessible, and performant web
 
 - Open an issue on this repo or any project to start a chat
 - Share feedback or ideas—always happy to iterate and improve
-- Add your LinkedIn/email here for direct contact
+- LinkedIn: [`saurabh-kumar-sharma`](https://www.linkedin.com/in/saurabh-kumar-sharma-5b03a1264/)
+- Email: [`saurabhsharma84050@gmail.com`](mailto:saurabhsharma84050@gmail.com)
 
 
 ---
